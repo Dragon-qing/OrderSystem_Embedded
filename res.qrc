@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>db/OrderSystem.db</file>
+    </qresource>
+</RCC>
